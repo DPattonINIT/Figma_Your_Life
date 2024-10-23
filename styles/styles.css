@@ -1,0 +1,132 @@
+.backGround{
+background-image: url(../Assets/Stage_1.png);
+background-size: 100% 100%;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+}
+
+
+.titleName{
+    text-align: center;
+    margin-bottom: 50px;
+    color: rgba(255, 217, 0, 0.784);
+    font-size: 100px;
+}
+.presents{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+.menuTour{
+    text-align: center;
+    font-size: 100px;
+    color: white;
+}
+
+.navbar{
+    color: gold;
+}
+.aboutBackGround{
+    background-image: url(../Assets/kitchen.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+   
+}
+
+.box1{
+   
+    display: flex;
+    justify-content: center;
+    width: 10%;
+    margin-left: 600px;
+    font-weight: bold;
+    color: gold;
+    }
+    .about{
+        text-align: center;
+    }
+.container2{
+    display: flex;
+   color: white;
+   text-align: center;
+}
+
+
+
+.col-6{
+    background-color: rgba(0, 0, 0, 0.466);
+    display: flex;
+    justify-content: space-between;
+   height: 400px;
+   color: white;
+}
+.p-text{
+    text-align: left;
+}
+.enterButton{
+    display: flex;
+    justify-content: center;
+}
+.rg-black{
+    
+  background-color: rgba(0, 0, 0, 0.43);  
+ 
+}
+.card-body{
+    background-color: black;
+    color: white;
+}
+.spacing{
+    color: gold;
+    text-align: center;
+    margin-right: 140px;
+}
+.restaurants{
+    text-align: center;
+    color: white;
+}
+.featured-pg{
+    background-image: url(../Assets/people.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.featuredDiv{
+    height: 100px;
+    background-color: black;
+}
+.eat-pg{
+    background-image: url(../Assets/Table.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.dishText{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+.eatDiv{
+    background-color: black;
+    height: 100px;
+}
+.card-text{
+    color: white;
+}
+.card-title-text{
+    color: white;
+
+}
+.experience{
+    background-color: rgba(0, 0, 0, 0.303);
+    height: 100px;
+}
+.experienceText{
+    color: white;
+    text-align: center;
+}
